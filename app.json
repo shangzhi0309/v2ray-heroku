@@ -13,7 +13,7 @@
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID，（http://www.uuid.online/ 在线生成UUID），客户端需要此参数",
-       "value": "4890bd47-5180-4b1c-9a5d-3ef686543112"
+       "value": "207db3fc-4ff6-4052-bf7d-92044128e960"
      },
     "AlterID": {
        "description": "AlterID大小，数值越大内存占用越高，客户端需要此参数",
